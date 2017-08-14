@@ -1,6 +1,6 @@
 {
-  "name": "fis3-hook-amd",
-  "version": "0.2.0",
+  "name": "fis3-hook-gfe-amd",
+  "version": "1.0.0",
   "description": "fis3 amd",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fex-team/fis3-hook-amd.git"
+    "url": "https://github.com/gomeFED/fis3-hook-gfe-amd.git"
   },
   "keywords": [
     "fis",
@@ -18,9 +18,9 @@
   "author": "fis",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/fex-team/fis3-hook-amd/issues"
+    "url": "https://github.com/gomeFED/fis3-hook-gfe-amd/issues"
   },
-  "homepage": "https://github.com/fex-team/fis3-hook-amd",
+  "homepage": "https://github.com/gomeFED/fis3-hook-gfe-amd",
   "peerDependencies": {
     "fis3-hook-commonjs": "^0.1.22"
   },
